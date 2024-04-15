@@ -1,0 +1,16 @@
+Prüfungsdauer: 120 min
+Note: 1
+Eigene Library konnte verwendet werden.
+
+Ein Windows Forms Programm zur Verwaltung und Anzeige von Daten soll erstellt werden. Hierfür wird ein Ausgangsprojekt modifiziert.
+Dabei sollen Daten aus einer CSV-Datei seitenweise ausgelesen werden (>80k Einträge), diese in einer Liste anzeigen und das Anlegen einer persönlichen Favoritenliste ermöglichen.
+
+User Aktionen:
+- Datei mittels Filebrowser Dialog öffnen
+- zur nächsten / vorherigen Seite navigieren
+- Einträge markieren und der Favoritenliste hinzufügen
+
+Weitere Aufgaben:
+- Erweitern der View um fehlende Elemente (Liste, Buttons, ...)
+- Favoritenliste speichern/laden
+- Kommunikation der Klassen gemäß dem MVP Pattern (Verknüpfung durch Events, Interfaces, ...)
